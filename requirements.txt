@@ -1,0 +1,7 @@
+python-telegram-bot[job-queue]==22.8
+requests==2.32.3
+pytz==2024.1
+jdatetime==5.0.0
+python-dotenv==1.0.1
+apscheduler==3.10.4
+httpx==0.28.1
